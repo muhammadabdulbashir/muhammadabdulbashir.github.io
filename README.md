@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 # project_webhozz
 =======
 # muhammadabdulbashir.github.io
